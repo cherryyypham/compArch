@@ -1,2 +1,5 @@
-oss-cas-suite/
-
+oss-cad-suite/
+icestorm/
+*.asc
+*.bin
+*.json
